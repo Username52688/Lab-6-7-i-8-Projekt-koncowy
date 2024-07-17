@@ -1,13 +1,6 @@
 import sys
 import json
 
-# Task0
-pip install pyinstaller
-pip install pyqt5
-pip install pyyaml
-pip install xmltodict
-
-
 #Task1
 def parse_arguments():
     if len(sys.argv) != 3:
